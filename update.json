@@ -1,6 +1,6 @@
 {
-  "version": "0.13.0-dev",
-  "releaseUrl": "https://github.com/jellys-space/diveforge-releases/releases",
-  "downloadUrl": null,
-  "message": "Dive Forge is currently in development."
+  "version": "0.13.0",
+  "releaseUrl": "https://github.com/jellys-space/diveforge-releases/releases/tag/v0.13.0",
+  "downloadUrl": "https://github.com/jellys-space/diveforge-releases/releases/download/v0.13.0/DiveForge-0.13.0-win-x64.zip",
+  "message": "Dive Forge 0.13.0 is now available."
 }
